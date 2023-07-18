@@ -1,0 +1,277 @@
+*{
+    font-family:'Poppins', sans-serif;
+}
+
+
+
+header{
+    background-color: #CE0505;
+    height: 70px;
+    position:relative ;
+}
+
+
+
+.logo-span{
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px 13px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+
+}
+
+
+
+
+.logo{
+    color: #CE0505;
+    font-size: 28px;
+    font-weight: 600px;
+    text-decoration: none;
+}
+
+
+
+.login-singup{
+    position: absolute;
+    right: 50px;
+    top: 23px;
+    word-spacing: 12px;
+
+}
+
+.login{
+    color: #fff;
+    text-decoration: none;
+}
+
+.Creatacc{
+    color: #fff;
+    text-decoration: none;
+    border-radius: 30px;
+    border: 2px solid white;
+    padding: 10px;
+    word-spacing: normal;
+}
+
+
+section{
+   position:relative;
+   padding: 20px 40px; 
+}
+
+
+.title-text{
+    color: #192F60;
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.filtre-article{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 10px #474444;
+    width: 260px;
+    height: 649px;
+}
+
+
+.result-1{
+    width: 754px;
+    height: 290px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 10px #474444;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
+
+.result-2{
+    width: 754px;
+    height: 290px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 10px #474444;
+    position: absolute;
+    top: 349px;
+    left: 0px;
+}
+
+.pagination{
+    position: absolute;
+     top: 708px; 
+    left: 45%;
+    word-spacing: 8px; 
+    margin-top: -380px;
+    width: 300.2px; 
+    right: 20px;
+    margin-left: -160px
+}
+
+
+.image-1{
+    position: absolute;
+    top: 16px;
+    left: 20px;
+}
+
+
+img{
+    border-radius: 5px;
+} 
+
+.Cakery1{
+    position: absolute;
+    left: 15%;
+    top: 64px;
+    bottom: 40.667px;
+    width: 497.5px;
+    font: normal normal 600 30px/46px Poppins;
+    color: #192F60;
+    word-spacing: 12px;
+    margin-bottom: 12px;
+
+}
+
+.h2{
+    position: absolute;
+    top: -99px;
+    font-size: 30px;
+    word-spacing: normal;
+
+}
+
+.p1{
+    position: absolute;
+    top: -60px;
+    word-spacing: normal;
+    font-size: 16px;
+}
+
+.p2{
+    position: absolute;
+word-spacing: normal;
+top: -34px;
+width: 79%;
+font-size: 13px;
+margin-bottom: 10px;
+color: #636F88;
+}
+
+.hr1{
+    width: 750px;
+    padding-top: 21px;
+}
+
+
+
+.result-1bottomdivleft{
+    color: #636F88;
+    position: absolute;
+    top: 140px;
+    left: 30px;
+    font-size: 16px;
+}
+
+.price1{
+    position: absolute;
+    left: 160px;
+    color: #192F60;
+
+}
+
+/* filter div */
+
+.filter{
+position: relative;
+left:    30px;
+font-size: 22px;
+color: #192F60;
+top: 17px;
+font-family:Poppins ;
+}
+
+.location{
+position: absolute;
+left:  80px;
+font-size: 16px;
+color: #192F60;
+font-family:Poppins;
+margin-left: -12px;
+margin-top: 4px;
+color: #192F60;
+}
+
+.location1{
+    position: absolute;
+    top: 170px;
+    padding-left: 19px;
+    margin-left: 10px;
+
+
+}
+
+
+
+.Filters{
+    position: absolute;
+    top: 26%;
+    left: 5%;
+    color: #636F88;
+}
+
+.box1{
+    margin-top: -17px;
+}
+
+
+.cost{
+    font-size: 14px;
+    margin-bottom: -7.38px;
+    padding-left: 4px;
+    color: #192F60;
+}
+
+.sort{
+    color:#192F60;
+    padding-left: 4px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+        margin-top: 45px;
+        width: 109%;
+        text-align: center;
+        background-color: rgba(247, 247, 247, 0);
+        padding: 25px;
+       padding-right:136px;
+      }
+      
+      .header-6 {
+        font-family: "Oswald", sans-serif;
+        font-size: 20px;
+      }
+      .para-footer {
+        font-family: "Oswald", sans-serif;
+        font-size: 15px;
+        padding-right: 136px;
+      }
+      
+      footer a:active {
+        font-weight: bold;
+        text-decoration: underline;
+      }
+      
+      footer a:hover {
+        text-decoration: none;
+      }
+      
+      footer svg {
+        height: 40px;
+        width: 30px;
+        margin: 4px;
+      }
+   
